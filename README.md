@@ -1,6 +1,9 @@
 # flower_recognition
 
-Usage: 
+This is a project for recognizting flowers with pytorch.
+
+## Usage: 
+__Make sure you have a GPU on your device!__
 1.  Download the dataset from https://www.kaggle.com/datasets/alxmamaev/flowers-recognition, and extract the dataset folder 'flowers' into the project folder. 
 
 2.  Run train.py:
