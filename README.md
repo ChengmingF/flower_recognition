@@ -14,7 +14,7 @@ __Make sure you have a GPU on your device!__
     ```
       python train.py --h 
     ```
-3.  The tensorboard are saved in folder 'log', please check the evalutations in tensorbard.
+3.  The tensorboards will be saved in folder 'log', please check the evalutations in tensorbard.
 
 4.  The weight are saved in folder 'weights'. 
 
