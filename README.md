@@ -14,9 +14,9 @@ __Make sure you have a GPU on your device!__
     ```
       python train.py --h 
     ```
-3.  The tensorboards will be saved in folder 'log', please check the evalutations in tensorbard.
+3.  The tensorboards will be saved in folder 'log', please check the evalutations in tensorbard. And the evaluations are also saved in .png file in corresponding folders. 
 
-4.  The weight are saved in folder 'weights'. 
+5.  The weight are saved in folder 'weights'. 
 
 5.  Train.sh is for running a loop with different network and layers. 
     command:  
